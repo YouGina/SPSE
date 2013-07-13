@@ -7,9 +7,6 @@ import Queue
 import threading
 #~ from __future__ import print_function
 
-#~ url = "http://www.nowinvited.net/harry/"
-#~ path = "images/"
-
 image_list = []
 path = "images/"
 
